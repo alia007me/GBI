@@ -1,2 +1,2 @@
 # GBI
-Graph Base Information(Documention and Filing)
+Graph-Base Information(Documention and Filing)
